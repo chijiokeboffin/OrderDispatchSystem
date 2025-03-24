@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "R4pQdxsbjNY=",
+  "success": true,
+  "projectFilePath": "C:\\Boffins\\BlueCorpOrderManagementSystem\\BlueCorpOrder.Application\\BlueCorpOrder.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CHIJIOKE MADEKWE\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\CHIJIOKE MADEKWE\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\CHIJIOKE MADEKWE\\.nuget\\packages\\microsoft.applicationinsights\\2.23.0\\microsoft.applicationinsights.2.23.0.nupkg.sha512",
+    "C:\\Users\\CHIJIOKE MADEKWE\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\CHIJIOKE MADEKWE\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

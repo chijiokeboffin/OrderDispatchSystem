@@ -1,0 +1,16 @@
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Application\bin\Debug\net8.0\BlueCorpOrder.Application.deps.json
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Application\bin\Debug\net8.0\BlueCorpOrder.Application.dll
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Application\bin\Debug\net8.0\BlueCorpOrder.Application.pdb
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Application\obj\Debug\net8.0\BlueCorpOrder.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Application\obj\Debug\net8.0\BlueCorpOrder.Application.AssemblyInfoInputs.cache
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Application\obj\Debug\net8.0\BlueCorpOrder.Application.AssemblyInfo.cs
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Application\obj\Debug\net8.0\BlueCorpOrder.Application.csproj.CoreCompileInputs.cache
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Application\obj\Debug\net8.0\BlueCorpOrder.Application.dll
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Application\obj\Debug\net8.0\refint\BlueCorpOrder.Application.dll
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Application\obj\Debug\net8.0\BlueCorpOrder.Application.pdb
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Application\obj\Debug\net8.0\ref\BlueCorpOrder.Application.dll
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrder.Application\obj\Debug\net8.0\BlueCorpOrder.Application.csproj.AssemblyReference.cache
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrder.Application\obj\Debug\net8.0\BlueCorpOrder.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrder.Application\obj\Debug\net8.0\BlueCorpOrder.Application.AssemblyInfoInputs.cache
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrder.Application\obj\Debug\net8.0\BlueCorpOrder.Application.AssemblyInfo.cs
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrder.Application\obj\Debug\net8.0\BlueCorpOrder.Application.csproj.CoreCompileInputs.cache

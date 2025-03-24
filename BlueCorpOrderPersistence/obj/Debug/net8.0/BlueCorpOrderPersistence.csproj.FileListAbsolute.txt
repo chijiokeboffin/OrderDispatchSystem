@@ -1,0 +1,22 @@
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrderPersistence\bin\Debug\net8.0\BlueCorpOrderPersistence.deps.json
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrderPersistence\bin\Debug\net8.0\BlueCorpOrderPersistence.dll
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrderPersistence\bin\Debug\net8.0\BlueCorpOrderPersistence.pdb
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrderPersistence\obj\Debug\net8.0\BlueCorpOrderPersistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrderPersistence\obj\Debug\net8.0\BlueCorpOrderPersistence.AssemblyInfoInputs.cache
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrderPersistence\obj\Debug\net8.0\BlueCorpOrderPersistence.AssemblyInfo.cs
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrderPersistence\obj\Debug\net8.0\BlueCorpOrderPersistence.csproj.CoreCompileInputs.cache
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrderPersistence\obj\Debug\net8.0\BlueCorpOrderPersistence.dll
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrderPersistence\obj\Debug\net8.0\refint\BlueCorpOrderPersistence.dll
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrderPersistence\obj\Debug\net8.0\BlueCorpOrderPersistence.pdb
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrderPersistence\obj\Debug\net8.0\ref\BlueCorpOrderPersistence.dll
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrderPersistence\bin\Debug\net8.0\BlueCorpOrderPersistence.deps.json
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrderPersistence\bin\Debug\net8.0\BlueCorpOrderPersistence.dll
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrderPersistence\bin\Debug\net8.0\BlueCorpOrderPersistence.pdb
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrderPersistence\obj\Debug\net8.0\BlueCorpOrderPersistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrderPersistence\obj\Debug\net8.0\BlueCorpOrderPersistence.AssemblyInfoInputs.cache
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrderPersistence\obj\Debug\net8.0\BlueCorpOrderPersistence.AssemblyInfo.cs
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrderPersistence\obj\Debug\net8.0\BlueCorpOrderPersistence.csproj.CoreCompileInputs.cache
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrderPersistence\obj\Debug\net8.0\BlueCorpOrderPersistence.dll
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrderPersistence\obj\Debug\net8.0\refint\BlueCorpOrderPersistence.dll
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrderPersistence\obj\Debug\net8.0\BlueCorpOrderPersistence.pdb
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrderPersistence\obj\Debug\net8.0\ref\BlueCorpOrderPersistence.dll

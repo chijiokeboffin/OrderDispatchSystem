@@ -1,0 +1,22 @@
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Infrastructure\bin\Debug\net8.0\BlueCorpOrder.Infrastructure.deps.json
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Infrastructure\bin\Debug\net8.0\BlueCorpOrder.Infrastructure.dll
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Infrastructure\bin\Debug\net8.0\BlueCorpOrder.Infrastructure.pdb
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Infrastructure\obj\Debug\net8.0\BlueCorpOrder.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Infrastructure\obj\Debug\net8.0\BlueCorpOrder.Infrastructure.AssemblyInfoInputs.cache
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Infrastructure\obj\Debug\net8.0\BlueCorpOrder.Infrastructure.AssemblyInfo.cs
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Infrastructure\obj\Debug\net8.0\BlueCorpOrder.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Infrastructure\obj\Debug\net8.0\BlueCorpOrder.Infrastructure.dll
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Infrastructure\obj\Debug\net8.0\refint\BlueCorpOrder.Infrastructure.dll
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Infrastructure\obj\Debug\net8.0\BlueCorpOrder.Infrastructure.pdb
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Infrastructure\obj\Debug\net8.0\ref\BlueCorpOrder.Infrastructure.dll
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrder.Infrastructure\bin\Debug\net8.0\BlueCorpOrder.Infrastructure.deps.json
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrder.Infrastructure\bin\Debug\net8.0\BlueCorpOrder.Infrastructure.dll
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrder.Infrastructure\bin\Debug\net8.0\BlueCorpOrder.Infrastructure.pdb
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrder.Infrastructure\obj\Debug\net8.0\BlueCorpOrder.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrder.Infrastructure\obj\Debug\net8.0\BlueCorpOrder.Infrastructure.AssemblyInfoInputs.cache
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrder.Infrastructure\obj\Debug\net8.0\BlueCorpOrder.Infrastructure.AssemblyInfo.cs
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrder.Infrastructure\obj\Debug\net8.0\BlueCorpOrder.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrder.Infrastructure\obj\Debug\net8.0\BlueCorpOrder.Infrastructure.dll
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrder.Infrastructure\obj\Debug\net8.0\refint\BlueCorpOrder.Infrastructure.dll
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrder.Infrastructure\obj\Debug\net8.0\BlueCorpOrder.Infrastructure.pdb
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrder.Infrastructure\obj\Debug\net8.0\ref\BlueCorpOrder.Infrastructure.dll

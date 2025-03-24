@@ -1,0 +1,22 @@
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Domain\bin\Debug\net8.0\BlueCorpOrder.Domain.deps.json
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Domain\bin\Debug\net8.0\BlueCorpOrder.Domain.dll
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Domain\bin\Debug\net8.0\BlueCorpOrder.Domain.pdb
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Domain\obj\Debug\net8.0\BlueCorpOrder.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Domain\obj\Debug\net8.0\BlueCorpOrder.Domain.AssemblyInfoInputs.cache
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Domain\obj\Debug\net8.0\BlueCorpOrder.Domain.AssemblyInfo.cs
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Domain\obj\Debug\net8.0\BlueCorpOrder.Domain.csproj.CoreCompileInputs.cache
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Domain\obj\Debug\net8.0\BlueCorpOrder.Domain.dll
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Domain\obj\Debug\net8.0\refint\BlueCorpOrder.Domain.dll
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Domain\obj\Debug\net8.0\BlueCorpOrder.Domain.pdb
+C:\Boffins\Boffins Consulting Apps\BlueCorpOrderManagementSystem\BlueCorpOrder.Domain\obj\Debug\net8.0\ref\BlueCorpOrder.Domain.dll
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrder.Domain\bin\Debug\net8.0\BlueCorpOrder.Domain.deps.json
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrder.Domain\bin\Debug\net8.0\BlueCorpOrder.Domain.dll
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrder.Domain\bin\Debug\net8.0\BlueCorpOrder.Domain.pdb
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrder.Domain\obj\Debug\net8.0\BlueCorpOrder.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrder.Domain\obj\Debug\net8.0\BlueCorpOrder.Domain.AssemblyInfoInputs.cache
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrder.Domain\obj\Debug\net8.0\BlueCorpOrder.Domain.AssemblyInfo.cs
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrder.Domain\obj\Debug\net8.0\BlueCorpOrder.Domain.csproj.CoreCompileInputs.cache
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrder.Domain\obj\Debug\net8.0\BlueCorpOrder.Domain.dll
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrder.Domain\obj\Debug\net8.0\refint\BlueCorpOrder.Domain.dll
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrder.Domain\obj\Debug\net8.0\BlueCorpOrder.Domain.pdb
+C:\Boffins\BlueCorpOrderManagementSystem\BlueCorpOrder.Domain\obj\Debug\net8.0\ref\BlueCorpOrder.Domain.dll

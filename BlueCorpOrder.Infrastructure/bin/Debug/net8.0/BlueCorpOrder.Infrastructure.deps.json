@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BlueCorpOrder.Infrastructure/1.0.0": {
+        "runtime": {
+          "BlueCorpOrder.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlueCorpOrder.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
