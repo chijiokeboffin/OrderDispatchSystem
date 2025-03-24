@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlueCorpOrder.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f85e67a438cd5c2ec8d3e49f2d7fd34fd611f23b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlueCorpOrder.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlueCorpOrder.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

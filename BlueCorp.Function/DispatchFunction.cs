@@ -37,15 +37,14 @@ namespace BlueCorp.Function
         {
             _insightsTracker.TrackEventToInsights("ReadyForDispatch",  "Dispatch called ..", "Request");
 
+
             // Read request payload
             string requestJson = await new StreamReader(req.Body).ReadToEndAsync();
-
             _insightsTracker.TrackEventToInsights("ReadyForDispatch", requestJson, "Request");
 
             if (requestJson == null)
             {
                 var errorResponse = new { message = "Invalid request payload.", success = false };
-
                 _insightsTracker.TrackEventToInsights("ReadyForDispatch", requestJson, JsonConvert.SerializeObject(errorResponse));
                 return new BadRequestObjectResult(errorResponse);
             }
@@ -53,8 +52,6 @@ namespace BlueCorp.Function
 
 
             var dispatchData = JsonConvert.DeserializeObject<ReadyForDispatchDto>(requestJson);
-
-
 
             //Call a service to check if it is a new control number, if not, do not process, return
             var existingDispatch = await _mediator.Send(dispatchData);
@@ -67,9 +64,7 @@ namespace BlueCorp.Function
 
 
             // Transform JSON to CSV
-            string csvData = _dispatchCSVService.ConvertObjectToCsv(dispatchData);
-
-            
+            string csvData = _dispatchCSVService.ConvertObjectToCsv(dispatchData);            
             bool isSuccess = await _threePLService.UploadFileToSftpAsync(csvData);
             if (!isSuccess)
             {
